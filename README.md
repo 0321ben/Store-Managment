@@ -1,5 +1,6 @@
 # Store-Managment
 Benjamin's project for Store Managment in AP Comp Sci A CTE A 
+
 # Unit 2 - Store Management Project
 
 ## Introduction
@@ -17,9 +18,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
 ![UML Diagram for my project](<img src="blob:chrome-untrusted://media-app/26dd9327-8fb8-4d00-a09e-c0de610dd8a8" alt="Copy of UML Diagram.png"/>)
 
 ## Description
+
 In my Store Management Project, I chose to make a Donut Shop. I chose to make a Donut Shop because it seemed like a fun idea to make. In the system, I represented each donut as an object in Java. The base donut is a superclass, and I used subclasses to represent different toppings and drink options. For example, I created subclasses for frosting, filling, and sprinkles, as well as coffee options that includes decaf, creamers, sugar, and half-and-half. This setup allowed me to practice using inheritance, with each topping subclass inheriting attributes and methods from the donut superclass. The system uses getters and setters (constructors methods, accessor methods, mutator methods) to manage the details of each item. I also used the toString() method to display the final order details in a readable format in the console. I did have user input, mostly the user will be given yes or no questions and a few specific answers like the type of donut or frosting flavor, and number answers for creamers, sugars, and half-and-half. So mostly the program expects a few specific answers but mainly yes/no answers. Once the user makes it's choices, the program gives out the complete order details to the console, giving a final summary of the donut and drink items selected by the user.
