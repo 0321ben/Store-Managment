@@ -18,7 +18,8 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-![UML Diagram for my project](<img src="blob:chrome-untrusted://media-app/26dd9327-8fb8-4d00-a09e-c0de610dd8a8" alt="Copy of UML Diagram.png"/>)
+<img src="blob:chrome-untrusted://media-app/26dd9327-8fb8-4d00-a09e-c0de610dd8a8" alt="Copy of UML Diagram.png"/>![image](https://github.com/user-attachments/assets/05b21d6a-3810-4983-856a-308296b48005)
+
 
 ## Description
 
